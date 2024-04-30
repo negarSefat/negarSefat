@@ -1,4 +1,5 @@
 - 👋 Hi, I’m negar
+- 🌍I live in Tehran
 - 👀 I’m interested in web designing
 - 🌱 I’m currently learning JavaScript
 
