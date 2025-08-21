@@ -1,9 +1,7 @@
 <h2 align="center" >⚡ Hi, I'm Negar Sefatdoust</h2>
-<img align="center" alt="coding" width="100%" height="240px" object-fit="cover" object-position="top"   src="https://i.giphy.com/26tn33aiTi1jkl6H6.webp" >
 
 
-<br>
-<hr>
+
 
 ## ✨About Me :
 ```typescript
